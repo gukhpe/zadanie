@@ -1,0 +1,12 @@
+.fese {
+	font-size: 5mm;
+}
+a {
+	font-size: 10mm;
+}
+a:hover {
+	color: red;
+}
+a:visited {
+	color: gray;
+}
