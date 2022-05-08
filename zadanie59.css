@@ -1,0 +1,10 @@
+.fese {
+	font-size: 25mm;
+	color: red;
+}
+a {
+	font-size: 10mm;
+}
+a:visited {
+	color: green;
+}
